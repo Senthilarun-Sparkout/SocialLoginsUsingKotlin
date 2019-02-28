@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "758488205790",
+    "firebase_url": "https://kotlinsociallogin-51cab.firebaseio.com",
+    "project_id": "kotlinsociallogin-51cab",
+    "storage_bucket": "kotlinsociallogin-51cab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:758488205790:android:0d8c878bcbac8ddf",
+        "android_client_info": {
+          "package_name": "com.gks.sociallogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "758488205790-uhfj10e6aesnq7po21kcu6iju9hqdm49.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gks.sociallogin",
+            "certificate_hash": "b19e97a44cfb67ec0d1f2d6ba1b7c2cc0afb44b2"
+          }
+        },
+        {
+          "client_id": "758488205790-hmvp3td4p6omp1dm2q1qf86fh2srg3s8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBONHOz4l-NafxJ5mCah6_YL9lnWr132uU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "758488205790-hmvp3td4p6omp1dm2q1qf86fh2srg3s8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
